@@ -15,7 +15,7 @@ This project is a School Management Information System (SMIS) developed using th
 
 ## Technologies Used
 
--PostgreSQL
+-PostgreSQL for database connection
 - Express.js: Web application framework for Node.js used for building the backend RESTful API.
 - React.js: JavaScript library for building user interfaces.
 - Node.js: JavaScript runtime environment for server-side development.

@@ -40,7 +40,7 @@ model Lecture {
   last_name        String       @db.VarChar(15)
   gender           String       @db.VarChar(6)
   birth_date       DateTime
-  department_id    String
+  department_id    String 
   employment_date  DateTime
   // salary           Int           @db.Int(6)
   qualifications   String       @db.VarChar(50)
@@ -126,3 +126,4 @@ model Batch {
 
 //   @@id([student_id, year, semester])
 // }
+ 
